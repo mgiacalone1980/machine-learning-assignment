@@ -1,20 +1,17 @@
-<img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> Help
+
 ====
+# [ROOT](http://root.cern.ch) is ...
+... A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualisation and storage. It is mainly written in C++ but well integrated with other languages such as Python and R. [Read More] (https://root.cern.ch/about-root) ...
 
-:sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
+# ROOTbooks for Binder
+This repository contains a set of files to use [ROOT](http://root.cern.ch)books in mybinder.org:
+* Dockerfile to customise Binder for [ROOT](http://root.cern.ch)
+* [ROOT](http://root.cern.ch)book example files
 
-## Please ask
-
-We encourage questions. We value being welcoming and courteous.
-
-> I don't know where to ask my question. It might be related to
-> something else, but I'm unsure. What should I do?
-
-+ Open an issue in this project. This is a safe, respectful space to ask
-                  questions and open issues. :smile:
+[Enric Tejedor](https://github.com/etejedor), [Danilo Piparo](https://github.com/dpiparo) (2015-2016)
 
 
-> I've never opened an issue. How do I do it?
+<img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> Help
 
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgiacalone1980/machine-learning-assignment)
