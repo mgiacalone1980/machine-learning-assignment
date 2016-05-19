@@ -5,12 +5,13 @@ This project has been done for the exam of Machine Learning for The Master Busin
 
 This repository contains a set of files to use in mybinder.org:
 * 
-* [ROOT](http://root.cern.ch)book example files
+* 
 
-[Matteo Giacalone](https://github.com/etejedor), [Donatella Papa](https://github.com/dpiparo) (2016)
+[Matteo Giacalone](https://it.linkedin.com/in/matteogiacalone), [Donatella Papa](https://it.linkedin.com/in/donatellapapa86) (2016)
 
 
-<img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> Help
+<img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> 
 
+Launch the Application Binder in order to run the notebook
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgiacalone1980/machine-learning-assignment)
