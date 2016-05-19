@@ -12,6 +12,6 @@ This repository contains a set of files to use in mybinder.org:
 
 <img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> 
 
-Launch the Application Binder in order to run the notebook
+Launch the Application Binder in order to run the notebook ciao
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgiacalone1980/machine-learning-assignment)
